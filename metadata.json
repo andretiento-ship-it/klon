@@ -1,0 +1,5 @@
+{
+  "name": "Photo Cloner AI",
+  "description": "Aplikasi kloning gaya visual dan virtual try-on menggunakan Google Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
