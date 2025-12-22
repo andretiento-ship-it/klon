@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "https://ai.studio/apps/drive/1-dW9W-Vu52Ckq8eJyOwem1fmckG4AYoM"
-    }
-  ]
-}
